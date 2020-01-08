@@ -1,0 +1,97 @@
+/*body, html, header, h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: #eee;
+    padding: 20px;
+    background: #585454;
+}
+body{
+    background: #cbbebe;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.leftsection
+.rightsection
+.bioimage {
+  float: left;
+}
+
+ .leftsection{
+  width: 70%;
+}
+
+.rightsection {
+  width: 30%;
+}
+
+.bioimage {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+p{
+    text-align: justify;
+}*/
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+  }
+  
+  header {
+    background: #333;
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #d21034;
+  }
+  
+  .main {
+    width: 1024px;
+    margin: 0 auto;
+  }
+  
+  .leftsection, .rightsection, #bioimg {
+    float: left;
+  }
+
+  
+  .leftsection{
+    width: 70%;
+  }
+  
+  .rightsection {
+    width: 30%;
+  }
+  
+  .bioimage {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  }
+  
